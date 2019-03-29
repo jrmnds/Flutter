@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "628335997511",
+    "firebase_url": "https://atry-7a6c6.firebaseio.com",
+    "project_id": "atry-7a6c6",
+    "storage_bucket": "atry-7a6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628335997511:android:4be1037ff2c61770",
+        "android_client_info": {
+          "package_name": "com.example.atry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628335997511-2bvg77r1h45ijh5udgq12ooap16bc6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-ALPib4Po8JUljlRWyQhlZl9Yg3rgmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
